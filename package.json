@@ -1,0 +1,9 @@
+{
+  "name": "clib-init",
+  "version": "0.0.1",
+  "repo": "jwerle/clib-init",
+  "description": "Initialize a clib package.json",
+  "keywords": ["clib", "init", "package.json"],
+  "install": "make install"
+}
+
